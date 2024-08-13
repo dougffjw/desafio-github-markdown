@@ -1,4 +1,4 @@
-# Desafio Dio Markdown by Douglas Fernandes de Freitas ⚽
+# Desafio Dio Markdown by Douglas Fernandes de Freitas⚽
 
 # Objetivos Pricipais:
 - [x] Criar uma conta no Github
