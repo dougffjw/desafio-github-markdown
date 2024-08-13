@@ -1,20 +1,20 @@
 # Desafio Dio Markdown by Douglas Freitas⚽
 
 # Objetivos Pricipais:
-- [x] Criar uma conta no Github
+- [x] Crie uma conta no Github
 
-- [x] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente)
+- [x] Adicionei um colaborador ao meu repositório 
 
-- [x] Realize alterações, Commits, abra issues e pull requests
+- [x] Realizei alterações, Commits, abri issues e pull requests
 
-- [x] Edite o arquivo "README.md" em seu repositório
+- [x] Editei o arquivo "README.md" em meu repositório
 
-- [x] Formatação com Markdown
+- [x] Fiz Formatação com Markdown
 
 -------------
 
 # Testando Links com Imagens
-Como um bom apreciador de jogos em geral, hoje atribuirei a alguns personagens de **Cyberpunk 2077** uma música para cada um, superficialmente claro — indo apenas pela aparência.<br /> Todas disponíveis na rádio jogo. 😅👀
+Como um grande fã do Neymar Jr e de Futebol, hoje atribui umas foto do Ney em todos os times que ele passou e um edit para cada um.<br /> Todas disponíveis Youtube. ✔😜
 
 ----
   | Ney do Santos | Ney do Barcelona |  Ney do PSG | Ney do Hilal |
